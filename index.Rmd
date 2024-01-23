@@ -5,4 +5,4 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Capítulo 1: La Diosa
+# La Diosa
