@@ -1,9 +1,8 @@
---- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+---
+title: "Los Faros Etéreos"
+author: "Diego Figueiras"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
-
+# Capítulo 1: La Diosa
